@@ -55,4 +55,6 @@ As annual members take shorter trips mostly on weekdays, while casual riders tak
 ### Targeted Marketing by Time of Day
 Casual members demonstrate a higher usage rate during evenings and afternoons compared to mornings. As a result, tailor the marketing campaigns to these specific time frames.
 
+## Conclusion
+The analysis of Cyclistic user data reveals distinct patterns between casual and annual members. By taking into account these considerations, an effective marketing strategy can be devised with the goal to convert the casual riders into annual members.
 
