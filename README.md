@@ -1,4 +1,4 @@
-# Comparative Anaysis of Cyclistic Bike Users
+# Comparative Analysis of Cyclistic Bike Users
 
 ## Introduction
 Cyclistic is a bike-share fictional company in Chicago. There are two categories of riders according to its pricing plan - casual riders and annual members. Those who purchase single or full ride passes are referred to as casual riders and those who purchase annual memberships are called Cyclistic members.
